@@ -20,14 +20,13 @@ file_path = r'C:\Users\Administrator\Desktop\root\dir1\cp3_data_size.c'
 def line_count(file_path):
 	code_line,blank_line =0,0
 	with open(file_path,'r') as fp:
-	    while 1:
-		    line = fp.readline()
-		    if not line:
-		    	break
+		while 1:
+			line = fp.readline()
+			if not line:
+				break
 			if not len(line.strip()):
-				blank_line+=1
-		    code_line+=1
-		   
+			    blank_line+=1
+			code_line+=1
 	print(code_line,"Lines")
 	print(blank_line,"Blank Lines")
 line_count(file_path)
