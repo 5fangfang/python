@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<title></title> 
+</head> 
+<body bgcolor="#F2F2F2" style="">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#F2F2F2" style="table-layout:fixed; ">
+<tbody>
+<tr style="">
+<td style="">
+<table width="590" border="0" cellspacing="0" cellpadding="0" align="center" style="">
+<tbody>
+<tr style="">
+<td style="">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+<tbody>
+<tr> 
+<td height="40" valign="bottom"><img src="http://pages.gurobi.com/rs/gurobi/images/curv-top-sdw.png" style="display:block" width="589" height="18" border="0" /></td> 
+</tr> 
+</tbody>
+</table> 
+<table width="100%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" style="background-color:#ffffff; border-bottom:3px solid #194477; ">
+<tbody>
+<tr> 
+<td height="10" colspan="3" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;">&nbsp;</td> 
+</tr> 
+<tr style="">
+<td width="15" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;">&nbsp;</td> 
+<td height="72" style="">
+<div class="mktEditable" id="header" style="">
+<img src="http://pages.gurobi.com/rs/gurobi/images/emailLogo.png" width="209" height="55" border="0" />
+</div></td>
+<td width="15" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;">&nbsp;</td> 
+</tr>
+<tr> 
+<td height="10" colspan="3" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;">&nbsp;</td> 
+</tr> 
+</tbody>
+</table>
+<table width="100%" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0" style="background-color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5d5d; ">
+<tbody>
+<tr> 
+<td height="10" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;" colspan="3">&nbsp;</td> 
+</tr> 
+<tr style="">
+<td width="15" style="font-size:1px;">&nbsp;</td> 
+<td valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5d5d; line-height:18px; ">
+<div class="mktEditable" id="content" style="">
+<p>Hello FREEMAN,</p> 
+<p>Please join us for <a href=
+"http://go.gurobi.com/iCLZ05Y3Aur00L000yY0S08" target="_blank"
+>this week's webinar</a> with Daniel Espinoza from the Gurobi development team and learn how you can solve simple stochastic optimization problems with Gurobi<br /></p> 
+<p><strong>Solving Simple Stochastic Optimization Problems with Gurobi</strong></p> 
+<p><a href=
+"http://go.gurobi.com/TD5ZL0A03000yYv00r8YLS0" target="_blank"
+>Tuesday, December 4th at 8:00am PDT (GMT -8)</a></p> 
+<p><a href=
+"http://go.gurobi.com/m0005E0080YL3rAyYLw0ZS0" target="_blank"
+>Wednesday, December 5th at 3pm CEST (GMT +1)</a></p> 
+<p>Topics will include:</p> 
+<ul> 
+<li>A quick introduction to stochastic optimization</li> 
+<li>Types of stochastic optimization problems</li> 
+<li>Types of models that can be solved easily: two-stage stochastic problems with expected value and coherent risk measures</li> 
+<li>Overview of the main algorithms: sample average approximation</li> 
+<li>Examples of common problems with Gurobi</li> 
+</ul> 
+<p><a href=
+"http://go.gurobi.com/iCLZ05Y3Aur00L000yY0S08" target="_blank"
+><img src="https://pages.gurobi.com/rs/181-ZYS-005/images/button-register-eng.png" alt="button-register-eng.png" width="120" height="33" /></a></p> 
+<p style="color: #5e5d5d; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">We hope you can join us live!</p> 
+<p style="color: #5e5d5d; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">The Gurobi Team</p>
+</div></td>
+<td width="15" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;">&nbsp;</td> 
+</tr>
+<tr> 
+<td height="20" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;" colspan="3">&nbsp;</td> 
+</tr> 
+</tbody>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#000000; text-align:center; ">
+<tbody>
+<tr> 
+<td height="40" valign="top"><img src="http://pages.gurobi.com/rs/gurobi/images/curv-bottom-sdw.png" width="589" height="34" style="display:block" border="0" /></td> 
+</tr> 
+<tr style="">
+<td style="color:#5e5d5d; ">
+<div class="mktEditable" id="footer" style="">
+<span style="font-weight:bold;">Gurobi Optimization</span>, +1 713 871 9341 
+<br /> 
+<a style="color:#5e5d5d; text-decoration:none;" href=
+"http://go.gurobi.com/c0800YAZ0r5Y03LSF0yxL00"
+>Contact Us</a>
+</div></td>
+</tr>
+<tr> 
+<td height="30" style="font-size:1px; border-collapse:collapse; margin:0; padding:0;">&nbsp;</td> 
+</tr> 
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<a href=
+"http://go.gurobi.com/q3SZ0L0yrG058L00Y0Ay00Y"
+></a>
+<img src="http://go.gurobi.com/trk?t=1&mid=MTgxLVpZUy0wMDU6MTM1NDY6MzIzNDo4NTk4OjA6NDA2Mjo5OjE5MzI3OjIxMzk0MDg6MTUzNjg1NDUyMkBxcS5jb20%3D" width="1" height="1" style="display:none !important;" alt="" />
+
+<p><font face="Verdana" size="1">This email was sent to 1536854522@qq.com. If you no longer wish to receive these emails you may <a href=
+"http://go.gurobi.com/u/x0Z0000L0z30r5Y0HL8AySY"
+>unsubscribe</a> at any time. </font> </p>
+</body>
+</html>
